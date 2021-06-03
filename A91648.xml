@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Renowned victory obtained against the rebels on the first day of June, neere Burros the Duke of Buckinghams castle, by the valour of these noble and valiant commanders. The Earle of Ormond. The Earl of Eastmeath. The Lord Don Luce, Earle of Antrim. Sir Thomas Lucas. Sir Patricke VVymes. Sir Richard Greenvill. Colonell Iohn Barry. Captaine Armestrong. Against the Lord Mountgarret. The Lord Dunsany. The Lord Plunket. The Lord Muskro. The Lord Dunhowin with 18000. rebels. Wherein is manifested how the Lord Don-luce tooke the Lord Dunsany prisoner, with five of the great commanders, which are now prisoners in the castle at Dublin. Likewise a true relation that the rebels have sent a petition to the Parliament, desiring to lay downe their armes upon condition of peace.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91648</idno><idno type="EEBO-CITATION">99859733</idno>
+  <idno type="VID">156748</idno>
+  <idno type="EEBO-PROQUEST">2240893250</idno>
+  
+            <idno type="STC">Wing R1040</idno>
+            <idno type="STC">Thomason E150_8</idno>
+            <idno type="STC">ESTC R14786</idno>
+            <idno type="PROQUEST">99859733</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859733e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156748)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Renowned victory obtained against the rebels on the first day of June, neere Burros the Duke of Buckinghams castle, by the valour of these noble and valiant commanders. The Earle of Ormond. The Earl of Eastmeath. The Lord Don Luce, Earle of Antrim. Sir Thomas Lucas. Sir Patricke VVymes. Sir Richard Greenvill. Colonell Iohn Barry. Captaine Armestrong. Against the Lord Mountgarret. The Lord Dunsany. The Lord Plunket. The Lord Muskro. The Lord Dunhowin with 18000. rebels. Wherein is manifested how the Lord Don-luce tooke the Lord Dunsany prisoner, with five of the great commanders, which are now prisoners in the castle at Dublin. Likewise a true relation that the rebels have sent a petition to the Parliament, desiring to lay downe their armes upon condition of peace.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 9. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mountgarret, Richard Butler, --  Viscount, 1578-1651 --  Early works to 1800.</term>
+               <term type="personal_name">Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156748:1"/>
+            <p>A Renowned VICTORY Obtained against the Rebels on the first day of <hi>June,</hi> neere <hi>Burros</hi> the Duke of <hi>Buckinghams</hi> Castle, by the valour of these noble and valiant Commanders.</p>
+            <list>
+               <item>The Earle of <hi>Ormond.</hi>
+               </item>
+               <item>The Earle of <hi>Eastmeath.</hi>
+               </item>
+               <item>The Lord <hi>Don-Luce,</hi> Earle of <hi>Antrim.</hi>
+               </item>
+               <item>Sir <hi>Thomas Lucas.</hi>
+               </item>
+               <item>Sir <hi>Patricke VVymes.</hi>
+               </item>
+               <item>Sir <hi>Richard Greenvill.</hi>
+               </item>
+               <item>Colonell <hi>Iohn Barry.</hi>
+               </item>
+               <item>Captaine <hi>Armestrong.</hi>
+               </item>
+            </list>
+            <p>Against
+<list>
+                  <item>The Lord <hi>Mountgarret.</hi>
+                  </item>
+                  <item>The Lord <hi>Dunsany.</hi>
+                  </item>
+                  <item>The Lord <hi>Plunket.</hi>
+                  </item>
+                  <item>The Lord <hi>Muskro.</hi>
+                  </item>
+                  <item>The Lord <hi>Dunbowin</hi> with 18000. Rebels.</item>
+               </list>
+            </p>
+            <p>Wherein is manifested how the Lord <hi>Don-luce</hi> tooke the Lord <hi>Dunsany</hi> prisoner, with five of the grea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commanders, which are now prisoners in the Castle at <hi>Dublin.</hi>
+            </p>
+            <p>Likewise a true Relation that the Rebels have sent a Petition to the Parliament, desiring to lay downe their Armes up<g ref="char:EOLhyphen"/>on condition of Peace.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. Horton. Iune</hi> 9. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156748:2"/>
+            <pb facs="tcp:156748:2"/>
+            <head>Most Admirable Newes from <hi>JRELAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Rebels have conti<g ref="char:EOLhyphen"/>nued in their blood-insisting Tyranny, not adding a Period to their inhumane cruel<g ref="char:EOLhyphen"/>ty. But God hath look't downe from Heaven upon them, and hath dispatched them by his just indignation, giving his Servants Victory over them. <hi>Knocknemease</hi> a Castle in <hi>Jreland</hi> was taken by the Rebels, and there they kept many <hi>English</hi> Captives long time, almost famishing them, being destitute of reliefe and sustenance, but Sir <hi>Thomas Lucas</hi> and Sir <hi>Richard Greenvill</hi> re<g ref="char:EOLhyphen"/>lieved it about sixe weekes since; and held it in possession, till of late within these 12.
+<pb facs="tcp:156748:3"/> dayes and lesse, the Rebels came with great Forces, and recovered it under the command of the Lord Viscount <hi>Mountgar<g ref="char:EOLhyphen"/>ret,</hi> and the Lord <hi>Dunsany,</hi> but the next day, the Lord Livetenant Generall, the Lord <hi>Pore,</hi> and Sir <hi>Thomas Lucas,</hi> with their severall Troopes, redeemed it againe and 37. <hi>Englishmen,</hi> that the Rebels had imprisoned, but the Lord <hi>Pore,</hi> with the other, tooke 55. Rebels, which are now detained in the Castle, there have beene many other Battails fought betweene the Protestants and the Rebels, but the Protes<g ref="char:EOLhyphen"/>tants have beene lately most part V<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctori<g ref="char:EOLhyphen"/>ous over them, the Castle of <hi>Cloughgrenan,</hi> by the Helpe of Sir <hi>Patricke Wymes,</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Armestrong,</hi> and Sir <hi>George Wenworths</hi> Troope, under the Command of Captaine <hi>Harman</hi> was overcome, and divers of the Rebels slaine, and they tooke nine priso<g ref="char:EOLhyphen"/>ners, which being brought before Sir <hi>Pa<g ref="char:EOLhyphen"/>tricke Wymes,</hi> at their examination they confessed that they had taken a second co<g ref="char:EOLhyphen"/>venant amongst themselves, and that they
+<pb facs="tcp:156748:3"/> had intended to depose King <hi>Charles,</hi> and would not be subiect to any Parliaments in <hi>England,</hi> neither would they submit to any authority sent by them, but that they would have a King of their owne, a native <hi>Jrishman,</hi> whom they would crowne their King, and acknowledge their Sove<g ref="char:EOLhyphen"/>raigne, <hi>Sir Patricke</hi> seemed to be highly displeased thereat, and commanded in his passion to have them all hanged as Trai<g ref="char:EOLhyphen"/>tors, then he put them to their Oath, and afterward committed them to the Castle, where they now remaine.</p>
+            <p>The Lord Viscount <hi>Jkerin,</hi> the Lord Barron of <hi>Dunbony,</hi> with 7000. Foote and 200. Horse at the Territorie of <hi>Clanmalee<g ref="char:EOLhyphen"/>ro,</hi> who being discovered by Cornet <hi>Ma<g ref="char:EOLhyphen"/>grah</hi> and divers others of our Comman<g ref="char:EOLhyphen"/>ders, who marched on with undanted courage towards them and immediately, gave them a Valley of shot, which unex<g ref="char:EOLhyphen"/>pected greeting amazed the Rebels and strucke such terror to their frozen hearts neverthelesse they withall speed inconti<g ref="char:EOLhyphen"/>nently
+<pb facs="tcp:156748:4"/> armed themselves in speedy prepa<g ref="char:EOLhyphen"/>ration to meet us, and at the first we had a very hot skirmish, but afterwards their flame was suddenly extinguished, for the English followed close with such Magna<g ref="char:EOLhyphen"/>nimity, and inestimable courage, that in a short time they slew seaven score, then the other fled, and they slew many in the flight, and diverse also they tooke Prisoners.</p>
+            <p>
+               <hi>Burros,</hi> the Duke of <hi>Buckinghams</hi> Castle was lately taken of the Rebels, formerly recovered by the English Army, and at the River <hi>Noare,</hi> neere unto <hi>Florence, Fitz Patricke,</hi> there lay a great Army of the Rebels, the most in number that have beene lately discovered, with Lord Viscount <hi>Mount-Garret,</hi> Lord Barron o <hi>Loghmoe,</hi> the Earle of <hi>Carr,</hi> the Lord <hi>Musgro,</hi> the Lord <hi>Leopane</hi> the Lord <hi>Dunbowin,</hi> the <hi>Astry,</hi> the Lord <hi>Dunsane,</hi> with others of the Rebels, but we being on <hi>Hopn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Hill,</hi> had the great advantage of them, in our Army was the Earle of <hi>Ormond,</hi> Earle of <hi>Kildare,</hi> the Lord <hi>Brahazon,</hi> the Lord
+<pb facs="tcp:156748:4"/>
+               <hi>Don-luce,</hi> Sir <hi>Patricke Wymes,</hi> Sir <hi>Thomas Lucas,</hi> Sir <hi>Richard Greenvill,</hi> with many other Noble and valiant Commanders, which with their severall forces marched against them, they likewise stood prepa<g ref="char:EOLhyphen"/>red to give us a churlish welcome.</p>
+            <p>The Rebels displayed their Banners immediately with great confidence, and came upon the English with great vio<g ref="char:EOLhyphen"/>lence. Three great drove of Cattell the Rebels had on their left side, which they had formerly taken from the <hi>English,</hi> with an undanted Resolution both Armies met, the Ratling Drums and Trumpets, fill'd the Army with warlike Ecchoes, which added to the courage of the <hi>En<g ref="char:EOLhyphen"/>glish,</hi> so that they flew like lightning, on the Rebels, and shooke their maine Batta<g ref="char:EOLhyphen"/>lia, each Commander shewing such valor, wisdome, discreet care, for to assault, up<g ref="char:EOLhyphen"/>on the least advantage, that it seem'd plea<g ref="char:EOLhyphen"/>sant to assault, not fearefull, the Lord <hi>Don-luce</hi> obtained a wreath of Fame, which never shall wither, for he with two bare Troopes of horse attempted to recover a
+<pb facs="tcp:156748:5"/> Drove of Cattell that the Rebels had ta<g ref="char:EOLhyphen"/>ken from the Inhabitants, and drove them after the Army with the luggish, which being discovered by the Lord <hi>Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sany,</hi> the Lord <hi>Muskro,</hi> and others, they immedi<g ref="char:EOLhyphen"/>ately drew off a Squadron from the left wing, &amp; went to intercept them, but at the first assault the Lord <hi>Dunsani<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> horse was shot, and he dismounted, but having re<g ref="char:EOLhyphen"/>covered another horse he charged the Lord <hi>Don-luce</hi> up to the face, betwixt whom grew a hot Combat, but in the end <hi>Dun<g ref="char:EOLhyphen"/>saney</hi> lost his Weapon and yeelded to his mercy, so did five other Rebels that had command. These were sent to <hi>Dublin</hi> and remaine in the Castle till it b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> determined what shall be done to them.</p>
+            <p>The Rebels sent a Petition to the Par<g ref="char:EOLhyphen"/>liament under their owne hands with their Names subscribed, desiring to lay downe their Armes, upon condition of Peace, which Newes hath so encouraged the <hi>English,</hi> that they are in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in a short time to bring the Rebels into Sub<g ref="char:EOLhyphen"/>jection.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
